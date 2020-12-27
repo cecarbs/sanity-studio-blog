@@ -7,8 +7,7 @@
 
 1. Run the development server:
 
-> npm start
-> ######or
-> yarn start
+    `npm start`
+    `yarn start`
 
 1. Define schemas using schemas folder. Import new schemas into schema.js.
