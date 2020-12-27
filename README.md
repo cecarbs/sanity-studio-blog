@@ -3,7 +3,7 @@
 1. Create `.env.development` file in your root folder with the values of:
 
 ```javascript
-SANITY_STUDIO_PROJECT_URL=YOU_URL // http://localhost:3000
+SANITY_STUDIO_PROJECT_URL=YOUR_URL // http://localhost:3000
 SANITY_STUDIO_PREVIEW_SECRET=YOUR_SECRET // unique string
 ```
 2. Run the development server:
